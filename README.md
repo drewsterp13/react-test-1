@@ -4,4 +4,4 @@ This is the basic react site with these features
 - Info Page
 - Dashboard Page
 - Navbar
-- Datatable that has sample info
+- Data Table that has buttons that do not function
